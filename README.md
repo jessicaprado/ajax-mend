@@ -1,6 +1,6 @@
 # ajax-mend
 
-![logo](assets/readme.png =450x335.28) 
+![logo](assets/readme.png=450x335.28) 
 
 ### Summary
 This project makes an AJAX call to the Senator URL which retrieves data in XML. Using jQuery, the data is brought into an array, which is then organized and returned as a JSON response.
